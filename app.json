@@ -1,5 +1,5 @@
 {
-  "name": "SMD-MiNi",
+  "name": "🦋⃟ᴠͥɪͣᴘͫ✮⃝🇲ʀ_Ãmîr𝄟⃝🍁🤍",
   "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
   "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
   "keywords": [
@@ -21,7 +21,7 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number without + sign",
-      "value": "923253617422",
+      "value": "923290323323",
       "required": true
     },
 
